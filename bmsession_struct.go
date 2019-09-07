@@ -1,3 +1,5 @@
+import "time"
+
 type Bmsession struct {
 	BM_Data []struct {
 		Type       string `json:"type"`
