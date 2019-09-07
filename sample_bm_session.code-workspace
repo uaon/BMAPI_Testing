@@ -1,0 +1,176 @@
+{
+    "data": [
+        {
+            "type": "session",
+            "id": "d75e56f2-b44a-11e9-8d1e-1855d7d752d7",
+            "attributes": {
+                "start": "2019-08-01T10:55:14.537Z",
+                "stop": "2019-08-01T15:48:02.601Z",
+                "firstTime": false,
+                "name": "Alexander"
+            },
+            "relationships": {
+                "server": {
+                    "data": {
+                        "type": "server",
+                        "id": "3213929"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "75789768"
+                    }
+                }
+            }
+        },
+        {
+            "type": "session",
+            "id": "06580b1f-b3da-11e9-964c-bd701e8f7ab5",
+            "attributes": {
+                "start": "2019-07-31T21:27:40.218Z",
+                "stop": null,
+                "firstTime": false,
+                "name": "CPL.Binks.J"
+            },
+            "relationships": {
+                "server": {
+                    "data": {
+                        "type": "server",
+                        "id": "3213929"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "412143111"
+                    }
+                }
+            }
+        },
+        {
+            "type": "session",
+            "id": "dee879c7-b3d8-11e9-931b-79fcdfbc2c31",
+            "attributes": {
+                "start": "2019-07-31T21:19:24.559Z",
+                "stop": null,
+                "firstTime": false,
+                "name": "PFC.Corn.C"
+            },
+            "relationships": {
+                "server": {
+                    "data": {
+                        "type": "server",
+                        "id": "3213929"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "36171621"
+                    }
+                }
+            }
+        },
+        {
+            "type": "session",
+            "id": "771e2ba3-b44e-11e9-ab5a-1058e399d000",
+            "attributes": {
+                "start": "2019-08-01T11:21:11.042Z",
+                "stop": "2019-08-01T13:31:17.921Z",
+                "firstTime": false,
+                "name": "blackbear"
+            },
+            "relationships": {
+                "server": {
+                    "data": {
+                        "type": "server",
+                        "id": "3213929"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "743457869"
+                    }
+                }
+            }
+        },
+        {
+            "type": "session",
+            "id": "06580b20-b3da-11e9-a3b1-ded7f01ab95b",
+            "attributes": {
+                "start": "2019-07-31T21:27:40.218Z",
+                "stop": null,
+                "firstTime": false,
+                "name": "CW5.Echelon.E"
+            },
+            "relationships": {
+                "server": {
+                    "data": {
+                        "type": "server",
+                        "id": "3213929"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "17976146"
+                    }
+                }
+            }
+        }
+    ],
+    "included": [
+        {
+            "type": "player",
+            "id": "17976146",
+            "attributes": {
+                "id": "17976146",
+                "name": "CW5.Echelon.E",
+                "createdAt": "2016-04-04T22:17:48.364Z",
+                "updatedAt": "2016-04-04T22:17:48.364Z"
+            }
+        },
+        {
+            "type": "player",
+            "id": "36171621",
+            "attributes": {
+                "id": "36171621",
+                "name": "PFC.Corn.C",
+                "createdAt": "2016-05-28T14:57:39.771Z",
+                "updatedAt": "2016-05-28T14:57:39.771Z"
+            }
+        },
+        {
+            "type": "player",
+            "id": "75789768",
+            "attributes": {
+                "id": "75789768",
+                "name": "Alexander",
+                "createdAt": "2016-09-06T04:15:08.673Z",
+                "updatedAt": "2016-09-06T04:15:08.673Z"
+            }
+        },
+        {
+            "type": "player",
+            "id": "412143111",
+            "attributes": {
+                "id": "412143111",
+                "name": "CPL.Binks.J",
+                "createdAt": "2017-11-25T00:39:42.710Z",
+                "updatedAt": "2017-11-25T00:39:42.710Z"
+            }
+        },
+        {
+            "type": "player",
+            "id": "743457869",
+            "attributes": {
+                "id": "743457869",
+                "name": "blackbear",
+                "createdAt": "2018-12-23T10:46:40.025Z",
+                "updatedAt": "2018-12-23T10:46:40.025Z"
+            }
+        }
+    ]
+}
